@@ -10,9 +10,9 @@ Please, follow the instructions below to complete the research.
 
    | Option     | Reasoning                                                                    |
    |------------|------------------------------------------------------------------------------|
-   | Yes        | If you are confident you can assess the class, and think the answer is yes.  |
-   | No         | If you are confident you can assess the class, and think the answer is no.   |
-   | Don't know | If you are not confident you can assess the class, and prefer not to answer. |
+   | Yes        | If you are confident you can evaluate the class, and think the answer is yes.  |
+   | No         | If you are confident you can evaluate the class, and think the answer is no.   |
+   | Don't know | If you are not confident you can evaluate the class, and prefer not to answer. |
 
 5. You don't have to send any complementary information to the authors.
 
