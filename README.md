@@ -6,7 +6,7 @@ Please, follow the instructions below to complete the research.
 2. The first column represents the 6 classes you should evaluate. The classes are in Java, but we do not believe you need to have experience with Java.
    1. Please, follow the designated link to see the content of the class.
 3. The second column is the name of the class in the repository. All classes are named `child.java`. Inside the repo, you should always evaluate the class `child.java`, however, some classes have a `parent.java` which you can look up to help with the questions.
-4. The remaining columns (3-11) contain the questions about each of the classes. Use the best of your knowledge to answer the 9 questions about the class. In this case, you have three options:
+4. The remaining columns (3-11) contain the 9 questions about each of the classes. Use the best of your knowledge to answer the 9 questions about the class. In this case, you have three options:
 
    | Option     | Reasoning                                                                    |
    |------------|------------------------------------------------------------------------------|
