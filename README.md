@@ -13,7 +13,7 @@ Please, follow the instructions below to complete the research.
    | Yes        | If you are confident you can evaluate the class, and think the answer is yes.  |
    | No         | If you are confident you can evaluate the class, and think the answer is no.   |
    | Don't know | If you are not confident you can evaluate the class, and prefer not to answer. |
-   | Not Applicable | If you are not confident you can evaluate the class with the provided information. |
+   | NA | If you cannot answer the question because the question does not apply to the class. |
 
 5. You don't have to send any complementary information to the authors.
 
