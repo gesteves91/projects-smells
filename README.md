@@ -17,5 +17,5 @@ Please, follow the instructions below to complete the research.
 
 5. You don't have to send any complementary information to the authors.
 
-Disclaimer:
-If you have any questions, do not hesitate to contact me at [geanderson@dcc.ufmg.br](mailto:geanderson@dcc.ufmg.br).
+> **Note**
+> If you have any questions, do not hesitate to contact me at [geanderson@dcc.ufmg.br](mailto:geanderson@dcc.ufmg.br).
